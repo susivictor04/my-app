@@ -31,13 +31,13 @@
 	</dependencies>
 	<distributionManagement>
 		<snapshotRepository>
-			<id>nexus_maven</id>
-			<url>http://localhost:8081/repository/nexus_maven/</url>
+			<id>maven-snapshots</id>
+			<url>http://localhost:8081/repository/maven-snapshots/</url>
 		</snapshotRepository>
 
 		<repository>
-			<id>nexus_maven</id>
-			<url>http://localhost:8081/repository/nexus_maven/</url>
+			<id>maven-releases</id>
+			<url>http://localhost:8081/repository/maven-releases/</url>
 		</repository>
 	</distributionManagement>
 
