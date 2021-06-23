@@ -17,7 +17,7 @@ public class JUnitTest {
 	public void simpleTest1(){
 		int a=1;
 		int b=1;
-		assertTrue(a+b==3);
+		assertTrue(a+b==2);
 	}
 
 }
